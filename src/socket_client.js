@@ -1,5 +1,5 @@
-var THREE = require('../game-client/js/build/three.min');
-var mcec = require('../src/mcec');
+var THREE = require('../node_modules/three/build/three.min');
+var mcec = require('../game-client/src/mcec');
 
 class socket_client {
     constructor(app, socket) {

@@ -1,4 +1,4 @@
-var mcec = require('../src/mcec');
+var mcec = require('../game-client/src/mcec');
 var app = require('http').createServer();
 var io = require('socket.io')(app);
 var player = require('./player');

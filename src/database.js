@@ -1,4 +1,4 @@
-var mcec  = require('../src/mcec');
+var mcec  = require('../game-client/src/mcec');
 var mysql = require('mysql');
 
 class database {

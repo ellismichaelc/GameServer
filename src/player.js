@@ -1,5 +1,5 @@
-var mcec = require('../src/mcec');
-var THREE = require('../game-client/js/build/three.min');
+var mcec = require('../game-client/src/mcec');
+var THREE = require('../node_modules/three/build/three.min');
 var socket_client = require('../src/socket_client');
 var md5 = require('md5');
 var distance = require('euclidean-distance');
