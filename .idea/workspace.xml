@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44ba5d93-1cc1-4ef1-89a9-9178f2f87f7d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="game" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="socket_client.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/socket_client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bindmou</find>
+      <find>handlemousemove</find>
+      <find>mouse_move</find>
+      <find>mouse_</find>
+      <find>box</find>
+      <find>unload</find>
+      <find>, objects</find>
+      <find>hitbox =</find>
+      <find>handleupdate</find>
+      <find>update</find>
+      <find>new date</find>
+      <find>radius</find>
+      <find>walkto</find>
+      <find>wa</find>
+      <find>walk_speed</find>
+      <find>check if arrived at dest</find>
+      <find>placemarker</find>
+      <find>.send(</find>
+      <find>walk</find>
+      <find>walk step</find>
+      <find>socket</find>
+      <find>click(</find>
+      <find>&quot;walk&quot;</find>
+      <find>target</find>
+      <find>player_walk</find>
+      <find>walkto(</find>
+      <find>terrain click</find>
+      <find>settarget</find>
+      <find>settar</find>
+      <find>walkupdate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>app.renderer</replace>
+      <replace>this.motion.</replace>
+      <replace>player.motion</replace>
+      <replace>myplayer.motion</replace>
+      <replace>[this.watchedKeys</replace>
+      <replace>scene</replace>
+      <replace>mult</replace>
+      <replace>this.myplayer</replace>
+      <replace>this.getMyPlayer()</replace>
+      <replace>.</replace>
+      <replace>texture</replace>
+      <replace>intersection</replace>
+      <replace>mesh</replace>
+      <replace>new_pos</replace>
+      <replace>this</replace>
+      <replace>me.</replace>
+      <replace>.offset</replace>
+      <replace>size</replace>
+      <replace>this.position</replace>
+      <replace>this.</replace>
+      <replace>this.terrain_height</replace>
+      <replace>this.getModel().position</replace>
+      <replace>this.height</replace>
+      <replace>&quot;</replace>
+      <replace>.terrain.sector_alt[0]</replace>
+      <replace>.terrain.sector_alt[1]</replace>
+      <replace>.terrain.sector_size</replace>
+      <replace>heightmap</replace>
+      <replace>sector_y</replace>
+      <replace>geom</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/client</dir>
+      <dir>$PROJECT_DIR$/client/src</dir>
+      <dir>$PROJECT_DIR$/server</dir>
+      <dir>$PROJECT_DIR$/server/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/example" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/package.json" />
+        <option value="$PROJECT_DIR$/client/index3.html" />
+        <option value="$PROJECT_DIR$/client/src/app.js" />
+        <option value="$PROJECT_DIR$/client/src/controls.js" />
+        <option value="$PROJECT_DIR$/client/src/playground.js" />
+        <option value="$PROJECT_DIR$/shared/player.dae" />
+        <option value="$PROJECT_DIR$/client/src/ColladaLoader.js" />
+        <option value="$PROJECT_DIR$/client/src/player_weapon.js" />
+        <option value="$PROJECT_DIR$/client/src/player_head.js" />
+        <option value="$PROJECT_DIR$/client/dist/inflate.min.js" />
+        <option value="$PROJECT_DIR$/client/js/ShaderTerrain.js" />
+        <option value="$PROJECT_DIR$/client/index2.html" />
+        <option value="$PROJECT_DIR$/client/js/threex.terrain.js" />
+        <option value="$PROJECT_DIR$/client/js/water-material.js" />
+        <option value="$PROJECT_DIR$/client/js/objects/Water.js" />
+        <option value="$PROJECT_DIR$/client/js/GPUPicker.js" />
+        <option value="$PROJECT_DIR$/client/dist/compiled.js" />
+        <option value="$PROJECT_DIR$/client/gulpfile.js" />
+        <option value="$PROJECT_DIR$/client/login.html" />
+        <option value="$PROJECT_DIR$/client/src/renderer.js" />
+        <option value="$PROJECT_DIR$/client/src/webview.js" />
+        <option value="$PROJECT_DIR$/client/src/terrain_tile.js" />
+        <option value="$PROJECT_DIR$/client/src/shaders.js" />
+        <option value="$PROJECT_DIR$/client/css/login.css" />
+        <option value="$PROJECT_DIR$/client/src/sockets.js" />
+        <option value="$USER_HOME$/Downloads/pure-css-blurred-video-background-login-box-fork/index.html" />
+        <option value="$PROJECT_DIR$/client/src/views.js" />
+        <option value="$PROJECT_DIR$/client/index.html" />
+        <option value="$PROJECT_DIR$/client/src/game.js" />
+        <option value="$PROJECT_DIR$/client/src/players.js" />
+        <option value="$PROJECT_DIR$/server/src/socket_client.js" />
+        <option value="$PROJECT_DIR$/client/src/login.js" />
+        <option value="$PROJECT_DIR$/server/src/database.js" />
+        <option value="$PROJECT_DIR$/client/src/camera.js" />
+        <option value="$PROJECT_DIR$/client/shared/mcec.js" />
+        <option value="$PROJECT_DIR$/server/src/player.js" />
+        <option value="$PROJECT_DIR$/server/app/views/login.html" />
+        <option value="$PROJECT_DIR$/client/css/app.css" />
+        <option value="$PROJECT_DIR$/server/app/css/login.css" />
+        <option value="$PROJECT_DIR$/client/src/models.js" />
+        <option value="$PROJECT_DIR$/client/src/basemodel.js" />
+        <option value="$PROJECT_DIR$/client/src/terrain.js" />
+        <option value="$PROJECT_DIR$/shared/mcec.js" />
+        <option value="$PROJECT_DIR$/server/src/app.js" />
+        <option value="$PROJECT_DIR$/client/src/player.js" />
+        <option value="$PROJECT_DIR$/client/src/scene.js" />
+        <option value="$PROJECT_DIR$/client/src/world.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/database.js" />
+        <option value="$PROJECT_DIR$/src/player.js" />
+        <option value="$PROJECT_DIR$/src/socket_client.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/game-client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/old/example/node_modules" />
+    <handled-path value="$PROJECT_DIR$/old/node_modules" />
+    <handled-path value="$PROJECT_DIR$/old/tests/1/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="591" />
+    <option name="y" value="27" />
+    <option name="width" value="1915" />
+    <option name="height" value="1223" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Perl5</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="game-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="game-server" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="game-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="game-server" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///web/game/client/src/scene.js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/js" />
+      <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/server/src" />
+      <recent name="$PROJECT_DIR$/client/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src" />
+      <recent name="$PROJECT_DIR$/client/fonts" />
+      <recent name="$PROJECT_DIR$/client/css" />
+      <recent name="$PROJECT_DIR$/server/src" />
+      <recent name="$PROJECT_DIR$/client/js/build" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44ba5d93-1cc1-4ef1-89a9-9178f2f87f7d" name="Default" comment="" />
+      <created>1507919731498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507919731498</updated>
+      <workItem from="1507919734590" duration="12621000" />
+      <workItem from="1507934387278" duration="8521000" />
+      <workItem from="1508277150768" duration="13209000" />
+      <workItem from="1508435535126" duration="5000" />
+      <workItem from="1508521414581" duration="12432000" />
+      <workItem from="1508653567014" duration="27000" />
+      <workItem from="1508653634216" duration="19720000" />
+      <workItem from="1508778360716" duration="1734000" />
+      <workItem from="1508781089897" duration="72000" />
+      <workItem from="1508782598851" duration="384000" />
+      <workItem from="1508802663527" duration="15029000" />
+      <workItem from="1508952847380" duration="13478000" />
+      <workItem from="1509039671564" duration="2116000" />
+      <workItem from="1509127232288" duration="39098000" />
+      <workItem from="1509387164068" duration="15000" />
+      <workItem from="1509387206960" duration="23000" />
+      <workItem from="1509555725157" duration="774000" />
+      <workItem from="1509559595943" duration="69961000" />
+      <workItem from="1510364743517" duration="7786000" />
+      <workItem from="1510385311876" duration="8573000" />
+      <workItem from="1510426861225" duration="14168000" />
+      <workItem from="1510444970473" duration="28042000" />
+      <workItem from="1510482871689" duration="264124000" />
+      <workItem from="1511054810491" duration="32977000" />
+      <workItem from="1511228216673" duration="7393000" />
+      <workItem from="1511302621382" duration="20873000" />
+      <workItem from="1511505604368" duration="328000" />
+      <workItem from="1511550284190" duration="5000" />
+      <workItem from="1511550362126" duration="83838000" />
+      <workItem from="1511821793072" duration="12494000" />
+      <workItem from="1512098829713" duration="7706000" />
+      <workItem from="1512247473547" duration="224000" />
+      <workItem from="1512248949389" duration="7000" />
+      <workItem from="1512248982664" duration="46000" />
+      <workItem from="1512249032417" duration="101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="697904000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="591" y="27" width="1915" height="1223" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20395088" sideWeight="0.4929694" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30717298" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25966495" sideWeight="0.5070306" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919767" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07801419" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.087675765" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30717298" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17912371" sideWeight="0.4929694" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25966495" sideWeight="0.5070306" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="52" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/src/playground.js" />
+    <entry file="file://$PROJECT_DIR$/client/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/client/package.json" />
+    <entry file="file://$PROJECT_DIR$/client/jsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/client/.babelrc" />
+    <entry file="file://$PROJECT_DIR$/node_modules/isarray/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gulp-env/node.d.ts" />
+    <entry file="file://$PROJECT_DIR$/server/node_modules/socket.io/lib/index.js" />
+    <entry file="file://$PROJECT_DIR$/server/package.json" />
+    <entry file="file://$USER_HOME$/Downloads/pure-css-blurred-video-background-login-box-fork/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/pure-css-blurred-video-background-login-box-fork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/client/css/login.css" />
+    <entry file="file://$PROJECT_DIR$/client/src/app.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/views.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/login.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/player_head.js" />
+    <entry file="file://$PROJECT_DIR$/client/node_modules/three-text2d/src/Text2D.ts" />
+    <entry file="file://$PROJECT_DIR$/client/node_modules/three-text2d/src/CanvasText.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/socket.io-client/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/shared/mcec.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/sockets.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/camera.js" />
+    <entry file="file://$PROJECT_DIR$/client/login.html" />
+    <entry file="file://$PROJECT_DIR$/server/src/socket_client.js" />
+    <entry file="file://$PROJECT_DIR$/server/src/database.js" />
+    <entry file="file://$PROJECT_DIR$/server/app/views/login.html" />
+    <entry file="file://$PROJECT_DIR$/client/index.html" />
+    <entry file="file://$PROJECT_DIR$/client/css/app.css" />
+    <entry file="file://$PROJECT_DIR$/server/app/css/login.css" />
+    <entry file="file://$PROJECT_DIR$/node_modules/three/build/three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="200" column="17" lean-forward="false" selection-start-line="200" selection-start-column="13" selection-end-line="200" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/jquery-1.12.4.min.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/game.js" />
+    <entry file="file://$USER_HOME$/Library/Application Scripts/com.apple.iChat/iTunes Remote Control.applescript">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="74" column="16" lean-forward="true" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/player.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/terrain.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/terrain_tile.js" />
+    <entry file="file://$PROJECT_DIR$/shared/mcec.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/models.js" />
+    <entry file="file://$PROJECT_DIR$/client/dist/compiled.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/players.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/basemodel.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/player.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/world.js" />
+    <entry file="file://$PROJECT_DIR$/server/src/app.js" />
+    <entry file="file://$PROJECT_DIR$/client/src/scene.js" />
+    <entry file="file://$PROJECT_DIR$/run_server">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/socket_client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

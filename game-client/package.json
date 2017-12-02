@@ -1,0 +1,29 @@
+{
+  "name": "mmogameclient",
+  "version": "1.0.0",
+  "description": "MMO client using Three.js and Babel.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MCEC <apps@mcecreations.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "gulp-babel": "^6.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-webserver": "^0.9.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.1"
+  },
+  "dependencies": {
+    "socket.io": "^2.0.3",
+    "three": "0.87.1",
+    "three-collada-loader": "0.0.1",
+    "three-text2d": "^0.3.4"
+  }
+}

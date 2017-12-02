@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<style>
+		body {
+	font-family: Monospace;
+	background-color: #fff;
+	margin: 0;
+	overflow: hidden;
+	color: white;
+}
+
+.chat {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	width: 300px;
+	padding: 10px;
+	font-size: 18px;
+	border: 0;
+	margin: 10px -10px;
+}
+
+.info {
+	position: absolute;
+	padding: 10px;
+	font-size: 16px;
+	width: 300px;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.45);
+}
+
+.info.away {
+	left: -320px;
+}
+
+.container {
+	position: relative;
+	height: 38%;
+	margin-top: 15px;
+}
+
+.message-box {
+	overflow-y: auto;
+	width: 310px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+}
+
+.message {
+	padding: 3px 0;
+}
+
+.name {
+	color: #bdc3c7;
+}
+
+.value {
+	color: #ecf0f1
+}
+
+.toggle-away {
+	position: absolute;
+	margin-left: 310px;
+	background: rgba(0, 0, 0, 0.45);
+	padding: 5px;
+}
+
+.toggle-away:hover {
+	cursor: pointer;
+}
+
+.modal-container {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 100;
+	background: url('http://mission-blue.org/wp-content/uploads/2013/04/the-blue-planet-4fc7047462c251.jpg');
+}
+
+.modal {
+	left: 50%;
+	position: fixed;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(0, 0, 0, 0.45);
+	padding: 20px;
+	width: 25%;
+	font-size: 1.3em;
+}
+
+@media (max-width: 980px) {
+.modal {
+	width: 90%;
+}
+}
+
+.modal input[type="text"], .modal input[type="submit"] {
+	padding: 10px;
+	width: 100%;
+	border: 0;
+	box-sizing: border-box;
+}
+
+.btn {
+	background: #16a085;
+	color: white;
+	transition: 0.2s all;
+}
+
+.btn:hover {
+	background: #1abc9c;
+	cursor: pointer;
+}
+
+		</style>
+		<title>Chicken Egg!</title>
+
+	</head>
+	<body>
+		<div class="modal-container">
+			<div class="modal">
+				<h3>Animal planet in 3D, WITH SOCKETS!</h3>
+				<form id="AnimalForm">
+					<p>
+						<label for="name">Your name</label><br>
+						<input type="text" id="name" placeholder="Enter name here..." /><br><br>
+						<label for="animal">Choose your animal</label><br>
+						<input type="radio" name="animal" value="cow" checked>Cow
+					  <br>
+					  <input type="radio" name="animal" value="chicken">Chicken
+					</p>
+					<input class="btn" type="submit" value="Enter world" />
+				</form>
+			</div>
+		</div>
+
+		<div class="info">
+			<div class="toggle-away">Toggle chat</div>
+			<div>
+				<h2>Animal Planet with sockets!</h2>Tap on the ground to move
+				<br />Type message and ENTER to post.
+				<br />Be nice to each other!
+				<br />
+				<br />Animals online:
+				<span id="animalcount"></span>
+			</div>
+			<div class="container">
+				<div class="message-box"></div>
+			</div>
+			<input class="chat" placeholder="Type your message here..." type="text" />
+		</div>
+
+
+		<script type="x-shader/x-vertex" id="vertexShader">
+
+			varying vec3 vWorldPosition;
+
+			void main() {
+
+				vec4 worldPosition = modelMatrix * vec4( position, 1.0 );
+				vWorldPosition = worldPosition.xyz;
+
+				gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );
+
+			}
+
+		</script>
+		<script type="x-shader/x-fragment" id="fragmentShader">
+
+			uniform vec3 topColor;
+			uniform vec3 bottomColor;
+			uniform float offset;
+			uniform float exponent;
+
+			varying vec3 vWorldPosition;
+
+			void main() {
+
+				float h = normalize( vWorldPosition + offset ).y;
+				gl_FragColor = vec4( mix( bottomColor, topColor, max( pow( max( h , 0.0), exponent ), 0.0 ) ), 1.0 );
+
+			}
+
+		</script>
+		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/three.js/r72/three.min.js"></script>
+		<script type="text/javascript" src="lib/helvetiker_regular.typeface.js"></script>
+		<script type="text/javascript" src="lib/TrackBallControls.js"></script>
+		<script type="text/javascript" src="//cdn.socket.io/socket.io-1.2.0.js"></script>
+		<script type="text/javascript" src="dist/compiled.js"></script>
+	</body>
+
+</html>
