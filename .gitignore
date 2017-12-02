@@ -1,4 +1,4 @@
-game-client
-node_modules
-.settings
-messages.txt
+game-client/
+node_modules/
+.settings/
+.idea/
