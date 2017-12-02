@@ -1,13 +1,13 @@
 {
-  "name": "mmogameserver",
-  "version": "1.0.0",
-  "description": "MMO server using Three.js and Babel.",
+  "name": "game-server",
+  "version": "0.0.1b",
+  "description": "",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "MCEC <apps@mcecreations.com>",
-  "license": "MIT",
+  "author": "MCEC <dev@mcec.io>",
+  "license": "PRIVATE",
   "devDependencies": {
     "babel-preset-es2015": "^6.1.18",
     "babelify": "^7.2.0",
